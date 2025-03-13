@@ -2,9 +2,16 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+:root {
+  --primary-color: #f8e5e6;
+  --secondary-color: #3a5673;
+  --turquoise: #51b9cd;
+  --baby-blue: #aaf1f5;
+}
+
+.App-image {
+  width: '100vw';
+  /* position: relative; */
 }
 
 @media (prefers-reduced-motion: no-preference) {
